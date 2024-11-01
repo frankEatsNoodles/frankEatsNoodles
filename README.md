@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @frankEatsNoodles
-- 👀 I’m interested in ...
+- 👀 I’m interested in noodles
 - 🌱 I’m currently learning Math and Computer Science at the University of Ottawa
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 55frankwu@gmail.com
