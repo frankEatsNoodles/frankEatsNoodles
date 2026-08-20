@@ -6,7 +6,7 @@
 
 - Some links!
 - https://www.linkedin.com/in/frankeatsnoodles/
-- https://frankeatsnoodles.github.io/Personal-Website/index.html (WIP)
+- https://frankeatsnoodles.github.io
 
 <!---
 frankEatsNoodles/frankEatsNoodles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
